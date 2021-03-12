@@ -1,0 +1,13 @@
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\bin\Debug\netcoreapp3.1\SwitchExpressionPartern.exe
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\bin\Debug\netcoreapp3.1\SwitchExpressionPartern.deps.json
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\bin\Debug\netcoreapp3.1\SwitchExpressionPartern.runtimeconfig.json
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\bin\Debug\netcoreapp3.1\SwitchExpressionPartern.runtimeconfig.dev.json
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\bin\Debug\netcoreapp3.1\SwitchExpressionPartern.dll
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\bin\Debug\netcoreapp3.1\SwitchExpressionPartern.pdb
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\obj\Debug\netcoreapp3.1\SwitchExpressionPartern.csprojAssemblyReference.cache
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\obj\Debug\netcoreapp3.1\SwitchExpressionPartern.AssemblyInfoInputs.cache
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\obj\Debug\netcoreapp3.1\SwitchExpressionPartern.AssemblyInfo.cs
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\obj\Debug\netcoreapp3.1\SwitchExpressionPartern.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\obj\Debug\netcoreapp3.1\SwitchExpressionPartern.dll
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\obj\Debug\netcoreapp3.1\SwitchExpressionPartern.pdb
+D:\Project\CSharpPartern\CSharpPartern\CSharpPartern\obj\Debug\netcoreapp3.1\SwitchExpressionPartern.genruntimeconfig.cache

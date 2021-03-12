@@ -1,0 +1,13 @@
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\bin\Debug\netcoreapp3.1\TypeMatchingPartern.exe
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\bin\Debug\netcoreapp3.1\TypeMatchingPartern.deps.json
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\bin\Debug\netcoreapp3.1\TypeMatchingPartern.runtimeconfig.json
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\bin\Debug\netcoreapp3.1\TypeMatchingPartern.runtimeconfig.dev.json
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\bin\Debug\netcoreapp3.1\TypeMatchingPartern.dll
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\bin\Debug\netcoreapp3.1\TypeMatchingPartern.pdb
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\obj\Debug\netcoreapp3.1\TypeMatchingPartern.csprojAssemblyReference.cache
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\obj\Debug\netcoreapp3.1\TypeMatchingPartern.AssemblyInfoInputs.cache
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\obj\Debug\netcoreapp3.1\TypeMatchingPartern.AssemblyInfo.cs
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\obj\Debug\netcoreapp3.1\TypeMatchingPartern.csproj.CoreCompileInputs.cache
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\obj\Debug\netcoreapp3.1\TypeMatchingPartern.dll
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\obj\Debug\netcoreapp3.1\TypeMatchingPartern.pdb
+D:\Project\CSharpPartern\CSharpPartern\TypeMatchingPartern\obj\Debug\netcoreapp3.1\TypeMatchingPartern.genruntimeconfig.cache
